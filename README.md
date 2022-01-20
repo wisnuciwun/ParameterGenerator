@@ -24,6 +24,7 @@ ParameterGenerator({obj: {
   brandShoes: "Masterpiece",
   shoesSize: "27",
 }})
+
 // example result : &brandShoes="Masterpiece"&shoesSize="27"&
 ``
 
