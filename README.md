@@ -17,6 +17,7 @@
 - obj = object that will translated to variable and value of query param
 
 :paperclip: Example :
+
 ``js
 ParameterGenerator({obj: {
   quantity: "",
@@ -27,4 +28,5 @@ ParameterGenerator({obj: {
 ``
 
 :camera: Preview :
+
 try and you will see magic happen :)
